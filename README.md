@@ -19,7 +19,7 @@ pip install opencv-python
 ```
 Save the python file USB<nolink>-cam-tester.py to your preferred directory from this repository. Read a quick tutorial on how to navigate directory on PowerShell terminal [here](https://www.itprotoday.com/powershell/how-use-powershell-navigate-windows-folder-structure). 
 ### Activating the script
-At the directory you had saved USB<nolink>-cam-tester.py, enter the following onto the terminal:
+At the directory that you had saved the USB<nolink>-cam-tester.py script, enter the following onto the terminal:
 ```sh
 python .\USB-cam-tester.py
 ```
