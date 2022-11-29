@@ -1,5 +1,7 @@
 import wmi,cv2
 
+print('Press Ctrl + Break to stop the script. Break is sometimes "pause" in laptop keys. \n')
+
 def camfunction(): 
   vid = cv2.VideoCapture(1, cv2.CAP_DSHOW)
   vid.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
