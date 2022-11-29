@@ -6,7 +6,7 @@ The goal of this script is to skip the manual process of switching camera with m
 - Code that activates camera on PC: https://www.geeksforgeeks.org/python-opencv-capture-video-from-camera/
 
 ## Environment
-- Python 3.10.8
+- [Python 3.10.8](https://www.python.org/downloads/)
 
 ## How to use
 
